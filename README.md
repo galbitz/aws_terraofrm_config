@@ -1,1 +1,1 @@
-# aws_terraofrm_config
+# State storage for aws terraform scripts
